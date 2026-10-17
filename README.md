@@ -2,8 +2,6 @@
 
 Prosta lista zadań w Vue 3 — dodawanie, usuwanie, oznaczanie jako zrobione, zapis w `localStorage`.
 
-Projekt treningowy pod podstawy Vue (m.in. pod oferty typu Parleto).
-
 ## Stack
 
 - Vue 3 (`script setup`)
