@@ -31,3 +31,5 @@ Otwórz adres z terminala Vite (zwykle `http://localhost:5173`).
 - `v-model`, `v-for`, `:class`, `@click`
 - niemutacyjne aktualizacje tablic (`map` / `filter` / spread)
 - `onMounted` + `watch` (w tym `{ deep: true }`) z localStorage
+
+Ćwiczenie: branch + commit + merge.
